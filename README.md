@@ -12,11 +12,11 @@ Open the terminal on MacOS/Linux; Open Git Bash on Windows. Then execute the fol
 
 Method 1: Install via GitHub script
 ```bash
-bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) githubReadme
+bash <(curl -Lk https://github.com/kingparks/cursor-vip/releases/download/latest/i.sh) a7ae8a9ef9daec8b82816567fe0fe470
 ```
 Method 2: Install via ghp.ci proxy script
 ```bash
-bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/download/latest/install.sh) githubReadme
+bash <(curl -Lk https://ghp.ci/https://github.com/kingparks/cursor-vip/releases/download/latest/install.sh) a7ae8a9ef9daec8b82816567fe0fe470
 ```
 Method 3: Manually download the binary file
 > download the binary file for the corresponding operating system from the [release](https://github.com/kingparks/cursor-vip/releases) page
@@ -24,7 +24,7 @@ Method 3: Manually download the binary file
 # MaxOS/Linux
 sudo mv cursor-vip_xx_xxx /usr/local/bin/cursor-vip;
 chmod +x /usr/local/bin/cursor-vip;
-cursor-vip githubReadme;
+cursor-vip a7ae8a9ef9daec8b82816567fe0fe470;
 # Windows 
 # double click cursor-vip_xx_xxx.exe
 ```
@@ -56,7 +56,7 @@ Enjoy cursor-vip:
 ---
 ### Promotion Guide
 By promoting cursor-vip, you can automatically get up to an unlimited amount of free usage time, and the other party can also get 15 days of free (self-registration for 7 days), you can refer to the following methods:
-1. After cloning this repository, replace `githubReadme` in the `README` with your DeviceID.
+1. After cloning this repository, replace `a7ae8a9ef9daec8b82816567fe0fe470` in the `README` with your DeviceID.
 2. Post articles on platforms such as SegmentFault/Stack Overflow/GitHub Discussions/Reddit/Dev.to/Hacker News/DZone/V2EX/Quora/WeChat Official Account/Zhihu/Bilibili/CSDN/, promoting the use of cursor pro in this way, 和 attach your own promotional installation command or cloned github address.
 3. Comment under cursor related articles or videos, for example: "Cooperate with Github's [Your Github Name]/cursor-vip for low-priced or freelancing Pro"
 ---
